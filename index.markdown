@@ -38,6 +38,9 @@ Quels sont les tournois qui sont proposés?
 
 _Vous pouvez choisir à quels tournois vous aimeriez participer à l'adresse suivante:_ [http://strawpoll.me/5510115][strawpoll]
 
+Note: s'il n'y a pas assez d'inscriptions pour un tournoi, le tournoi sera annulé et vous serez remboursés.
+Assurez-vous donc de vous inscrire et d'informer vos amis le plus tôt possible!
+
 Puis-je venir au LAN sans participer à un tournoi?
 --------------------------------------------------
 
