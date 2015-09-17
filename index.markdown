@@ -43,7 +43,7 @@ Puis-je venir au LAN sans participer à un tournoi?
 
 Bien sur! Vous aurez une place pour brancher votre ordinateur ou votre console et vous pourrez jouer à des jeux libres.
 Pour les PC: veuillez télécharger vos jeux avant le LAN!
-Pour les concoles: seulement les jeux splitscreen sont autorisés, pas de XBox Live, PSN, etc.
+Pour les consoles: seulement les jeux splitscreen sont autorisés, pas de XBox Live, PSN, etc.
 Quelques télés seront disponibles.
 
 Si vous désirez jouer avec les autres participants, allez sur la page de l'évènement [(cliquez ici)][pagefacebook] et indiquez à quel jeu vous aimeriez jouer.
@@ -55,6 +55,11 @@ Exemples:
 - SWAT 4: The Stetchkov Syndicate (PC)
 - Warcraft 3: The Frozen Throne (PC)
 - Minecraft (PC)
+
+J'ai d'autres questions, à qui dois-je les poser?
+-------------------------------------------------
+
+Pour plus d'informations, demandez votre question lors de votre inscription à la place centrale du cégep, ou contactez-nous par courriel: (info@lantistfe.info).
 
 
 [strawpoll]:    http://strawpoll.me/5510115
