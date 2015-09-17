@@ -2,13 +2,11 @@
 title: LAN-TI Saint-Félicien 2e Édition
 email: info@lantistfe.info
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Site du LAN des techniques de l'informatique du cégep de St-Félicien
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://lantistfe.info" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: jekyllrb
+#github_username:  jekyll
 facebook_event_num: 1500346320263542
 facebook_event_name: LAN-TI Saint-Félicien 2e Édition
 
