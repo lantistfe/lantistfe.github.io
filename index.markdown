@@ -4,6 +4,11 @@ title: Informations
 permalink: /
 ---
 
+C'est quoi un "LAN"?
+--------------------
+
+Une LAN party ou tournoi en réseau en français, est un évènement rassemblant des personnes dans le but de jouer à des jeux vidéo ensemble en utilisant un réseau local.
+
 À quel endroit se déroule le LAN?
 ---------------------------------
 
@@ -37,6 +42,8 @@ Quels sont les tournois qui sont proposés?
 - Super Smash Bros. 4 (Wii U)
 
 _Vous pouvez choisir à quels tournois vous aimeriez participer à l'adresse suivante:_ [http://strawpoll.me/5510115][strawpoll]
+
+_Vous êtes limités à un seul tournoi par jour._
 
 Note: s'il n'y a pas assez d'inscriptions pour un tournoi, le tournoi sera annulé et vous serez remboursés.
 Assurez-vous donc de vous inscrire et d'informer vos amis le plus tôt possible!
