@@ -58,6 +58,8 @@ Exemples:
 - SWAT 4: The Stetchkov Syndicate (PC)
 - Warcraft 3: The Frozen Throne (PC)
 - Minecraft (PC)
+- Goldeneye 007 (N64)
+- Splinter Cell: Blacklist (Xbox 360)
 
 J'ai d'autres questions, à qui dois-je les poser?
 -------------------------------------------------
