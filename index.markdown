@@ -20,6 +20,7 @@ Où puis-je m'inscrire?
 
 Vous devez vous rendre à la place centrale au cégep de St-Félicien, sur l'heure du midi et remplir le formulaire d'inscription.
 Si vous ne pouvez pas vous rendre au cégep, vous pouvez demander à quelqu'un de vous inscrire à votre place.
+Les inscriptions commencent le 21 septembre et se terminent le 9 octobre.
 
 Combien coûte l'inscription?
 ----------------------------
