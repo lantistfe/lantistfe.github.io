@@ -19,6 +19,7 @@ Où puis-je m'inscrire?
 ----------------------
 
 Vous devez vous rendre à la place centrale au cégep de St-Félicien, sur l'heure du midi et remplir le formulaire d'inscription.
+Si vous ne pouvez pas vous rendre au cégep, vous pouvez demander à quelqu'un de vous inscrire à votre place.
 
 Combien coûte l'inscription?
 ----------------------------
@@ -43,7 +44,7 @@ Quels sont les tournois qui sont proposés?
 
 _Vous pouvez choisir à quels tournois vous aimeriez participer à l'adresse suivante:_ [http://strawpoll.me/5510115][strawpoll]
 
-_Vous êtes limités à un seul tournoi par jour._
+**Vous pouvez participer à un seul tournoi par jour!**
 
 Note: s'il n'y a pas assez d'inscriptions pour un tournoi, le tournoi sera annulé et vous serez remboursés.
 Assurez-vous donc de vous inscrire et d'informer vos amis le plus tôt possible!
