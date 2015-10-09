@@ -20,7 +20,13 @@ Où puis-je m'inscrire?
 
 Vous devez vous rendre à la place centrale au cégep de St-Félicien, sur l'heure du midi et remplir le formulaire d'inscription.
 Si vous ne pouvez pas vous rendre au cégep, vous pouvez demander à quelqu'un de vous inscrire à votre place.
-Les inscriptions commencent le 21 septembre et se terminent le 9 octobre.
+Les inscriptions commencent le 21 septembre et se terminent le 14 octobre pour les participations aux tournois.
+Pour les jeux libres, vous pouvez vous inscrire jusqu'au samedi matin le 17 octobre.
+
+Qu'est-ce que je dois emmener pour l'événement?
+-----------------------------------------------
+
+Tu dois emmener ton ordinateur (tour ou portable) avec un écran, clavier, souris et un câble réseau de 25 pieds. Tu dois aussi emmener des écouteurs avec micro, les hauts-parleurs sont interdits.
 
 Combien coûte l'inscription?
 ----------------------------
